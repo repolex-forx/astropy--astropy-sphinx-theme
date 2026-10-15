@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/astropy/astropy-sphinx-theme/commit/f845236c2c0f572dd3c5e22d44b91e686e7e3fc7",
       "git:hexsha": "f845236c2c0f572dd3c5e22d44b91e686e7e3fc7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T21:09:08.322459+00:00"
     },
     {
       "@id": "https://repolex.ai/r/astropy/astropy-sphinx-theme/commit/230787919e2b06d828c97db60e89f450e4a79bd4",
